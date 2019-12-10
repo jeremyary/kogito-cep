@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Quarkus" name="Quarkus">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: io.quarkus:quarkus-resteasy-jsonb:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.quarkus:quarkus-resteasy:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.quarkus:quarkus-vertx-http:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.quarkus.security:quarkus-security:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: jakarta.enterprise:jakarta.enterprise.cdi-api:2.0.2" level="project" />
+    <orderEntry type="library" name="Maven: jakarta.el:jakarta.el-api:3.0.3" level="project" />
+    <orderEntry type="library" name="Maven: jakarta.interceptor:jakarta.interceptor-api:1.2.5" level="project" />
+    <orderEntry type="library" name="Maven: jakarta.ejb:jakarta.ejb-api:3.2.6" level="project" />
+    <orderEntry type="library" name="Maven: jakarta.transaction:jakarta.transaction-api:1.3.3" level="project" />
+    <orderEntry type="library" name="Maven: io.quarkus:quarkus-vertx-core:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.quarkus:quarkus-netty:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec:4.1.42.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-handler:4.1.42.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.vertx:vertx-core:3.8.3" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-common:4.1.42.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-buffer:4.1.42.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-transport:4.1.42.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-handler-proxy:4.1.42.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec-socks:4.1.42.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec-http:4.1.42.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec-http2:4.1.42.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-resolver:4.1.42.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-resolver-dns:4.1.42.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec-dns:4.1.42.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.vertx:vertx-web:3.8.3-01" level="project" />
+    <orderEntry type="library" name="Maven: io.vertx:vertx-web-common:3.8.3-01" level="project" />
+    <orderEntry type="library" name="Maven: io.vertx:vertx-auth-common:3.8.3" level="project" />
+    <orderEntry type="library" name="Maven: io.vertx:vertx-bridge-common:3.8.3" level="project" />
+    <orderEntry type="library" name="Maven: io.quarkus:quarkus-resteasy-server-common:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.quarkus:quarkus-resteasy-common:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.resteasy:resteasy-core:4.4.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.ws.rs:jboss-jaxrs-api_2.1_spec:2.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.xml.bind:jboss-jaxb-api_2.3_spec:2.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.resteasy:resteasy-core-spi:4.4.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.reactivestreams:reactive-streams:1.0.3" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.activation:jakarta.activation:1.2.1" level="project" />
+    <orderEntry type="library" name="Maven: io.quarkus:quarkus-jsonb:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse:yasson:1.0.5" level="project" />
+    <orderEntry type="library" name="Maven: io.quarkus:quarkus-core:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: jakarta.annotation:jakarta.annotation-api:1.3.5" level="project" />
+    <orderEntry type="library" name="Maven: jakarta.inject:jakarta.inject-api:1.0" level="project" />
+    <orderEntry type="library" name="Maven: io.smallrye:smallrye-config:1.3.9" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.microprofile.config:microprofile-config-api:1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.logmanager:jboss-logmanager-embedded:1.0.4" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.logging:jboss-logging-annotations:2.1.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.threads:jboss-threads:3.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.slf4j:slf4j-jboss-logging:1.2.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.graalvm.sdk:graal-sdk:19.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.wildfly.common:wildfly-common:1.5.0.Final-format-001" level="project" />
+    <orderEntry type="library" name="Maven: io.quarkus:quarkus-arc:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.quarkus.arc:arc:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.microprofile.context-propagation:microprofile-context-propagation-api:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: io.quarkus:quarkus-jsonp:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.resteasy:resteasy-json-binding-provider:4.4.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.glassfish:jakarta.json:1.1.6" level="project" />
+    <orderEntry type="library" name="Maven: jakarta.json.bind:jakarta.json.bind-api:1.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.logging:jboss-logging:3.3.2.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.resteasy:resteasy-json-p-provider:4.4.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.6" level="project" />
+    <orderEntry type="library" name="Maven: org.kie.kogito:kogito-api:0.6.0" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" name="Maven: org.kie:kie-dmn-api:7.29.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.kie:kie-dmn-model:7.29.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.kie.kogito:drools-core-static:0.6.0" level="project" />
+    <orderEntry type="library" name="Maven: org.kie.kogito:drools-core-reflective:0.5.1" level="project" />
+    <orderEntry type="library" name="Maven: org.kie.kogito:kogito-internal:0.5.1" level="project" />
+    <orderEntry type="library" name="Maven: org.kie.kogito:drools-compiler:0.5.1" level="project" />
+    <orderEntry type="library" name="Maven: org.kie.kogito:drools-core:0.6.0" level="project" />
+    <orderEntry type="library" name="Maven: org.antlr:antlr-runtime:3.5.2" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jdt.core.compiler:ecj:4.6.1" level="project" />
+    <orderEntry type="library" name="Maven: org.mvel:mvel2:2.4.4.Final" level="project" />
+    <orderEntry type="library" name="Maven: com.thoughtworks.xstream:xstream:1.4.11.1" level="project" />
+    <orderEntry type="library" name="Maven: xmlpull:xmlpull:1.1.3.1" level="project" />
+    <orderEntry type="library" name="Maven: xpp3:xpp3_min:1.1.4c" level="project" />
+    <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:3.6.1" level="project" />
+    <orderEntry type="library" name="Maven: org.kie.kogito:drools-canonical-model:0.5.1" level="project" />
+    <orderEntry type="library" name="Maven: org.kie.kogito:drools-model-compiler:0.6.0" level="project" />
+    <orderEntry type="library" name="Maven: com.github.javaparser:javaparser-core:3.13.10" level="project" />
+    <orderEntry type="library" name="Maven: org.kie.kogito:drools-mvel-parser:0.5.1" level="project" />
+    <orderEntry type="library" name="Maven: javax.annotation:javax.annotation-api:1.3.2" level="project" />
+    <orderEntry type="library" name="Maven: org.kie.kogito:drools-mvel-compiler:0.5.1" level="project" />
+    <orderEntry type="library" name="Maven: org.kie.kogito:jbpm-flow:0.6.0" level="project" />
+    <orderEntry type="library" name="Maven: org.kie.kogito:kogito-services:0.5.1" level="project" />
+    <orderEntry type="library" name="Maven: org.kie.kogito:kogito-dmn:0.6.0" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.10.1" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.10" level="project" />
+    <orderEntry type="library" name="Maven: org.kie:kie-dmn-core:7.29.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.kie:kie-dmn-backend:7.29.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.kie.soup:kie-soup-commons:7.29.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.kie:kie-dmn-feel:7.29.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: ch.obermuhlner:big-math:2.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.antlr:antlr4-runtime:4.7.2" level="project" />
+    <orderEntry type="library" name="Maven: org.jpmml:pmml-model:1.4.11" level="project" />
+    <orderEntry type="library" name="Maven: org.jpmml:pmml-agent:1.4.11" level="project" />
+    <orderEntry type="library" name="Maven: org.kie.kogito:drools-decisiontables:0.6.0" level="project" />
+    <orderEntry type="library" name="Maven: org.drools:drools-decisiontables:7.29.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.drools:drools-templates:7.29.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.poi:poi-ooxml:3.17" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.poi:poi-ooxml-schemas:3.17" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlbeans:xmlbeans:2.6.0" level="project" />
+    <orderEntry type="library" name="Maven: com.github.virtuald:curvesapi:1.04" level="project" />
+    <orderEntry type="library" name="Maven: javax.xml.stream:stax-api:1.0-2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.poi:poi:3.17" level="project" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.13" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-collections4:4.1" level="project" />
+    <orderEntry type="library" name="Maven: io.cloudevents:cloudevents-api:1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.10" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.9.10" level="project" />
+    <orderEntry type="library" name="Maven: org.hibernate.validator:hibernate-validator:6.1.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: jakarta.validation:jakarta.validation-api:2.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml:classmate:1.3.4" level="project" />
+    <orderEntry type="library" name="Maven: org.glassfish:jakarta.el:3.0.3" level="project" />
+  </component>
+</module>
